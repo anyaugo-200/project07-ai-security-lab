@@ -1,0 +1,9 @@
+# Internal working notes — not for public publication
+Project07-HANDOFF-Continue-From-New-Chat.md
+
+# OS / cloud-sync artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+~$*
